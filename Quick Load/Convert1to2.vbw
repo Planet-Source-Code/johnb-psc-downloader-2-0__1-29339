@@ -1,0 +1,9 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsSettings = 0, 0, 0, 0, C
+clsPSCdlRecord = 0, 0, 0, 0, C
+Registry = 0, 0, 0, 0, C
+AdoUtils = 0, 0, 0, 0, C
+clsFile = 0, 0, 0, 0, C
+colFiles = 0, 0, 0, 0, C
+clsCodeList = 0, 0, 0, 0, C
+colCodeList = 0, 0, 0, 0, C
