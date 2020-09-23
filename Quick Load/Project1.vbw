@@ -1,0 +1,9 @@
+frmMain = 262, 0, 1135, 1117, Z, 22, 22, 895, 776, C
+clsSettings = 132, 132, 1005, 886, 
+clsPSCdlRecord = 99, 4, 972, 758, 
+Registry = 0, 0, 0, 0, C
+AdoUtils = 56, 368, 1103, 946, 
+clsFile = 66, 66, 939, 820, 
+colFiles = 88, 88, 961, 842, 
+clsCodeList = 0, 0, 0, 0, C
+colCodeList = 0, 0, 0, 0, C

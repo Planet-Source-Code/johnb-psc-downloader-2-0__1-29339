@@ -1,0 +1,50 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\..\..\..\..\WINNT\System32\stdole2.tlb#OLE Automation
+Reference=*\G{0C2A1328-B18A-4608-A455-1AB1115525B4}#1.0#0#..\..\..\..\..\..\..\..\..\DOCUME~1\joba\MYDOCU~1\test\ATOMIK~1\atmkADO\atmkADO.dll#atmkADO
+Reference=*\G{34D8C90C-F88B-45DD-B480-28CDD409EF60}#1.0#0#..\..\..\..\..\..\..\..\..\DOCUME~1\joba\MYDOCU~1\test\ATOMIK~1\atmkReg\atmkReg.dll#atmkReg
+Reference=*\G{28656AB9-8E12-11D2-950F-000000000000}#1.1#0#..\..\..\..\..\..\..\..\..\DOCUME~1\joba\MYDOCU~1\test\ATOMIK~1\ARCRYP~1\Base64.dll#Base64 Encoding Library v2
+Reference=*\G{00000206-0000-0010-8000-00AA006D2EA4}#2.6#0#..\..\..\..\..\..\..\..\..\Program Files\Common Files\System\ADO\msado15.dll#Microsoft ActiveX Data Objects 2.6 Library
+Reference=*\G{420B2830-E718-11CF-893D-00A0C9054228}#1.0#0#..\..\..\..\..\..\..\..\..\WINNT\system32\scrrun.dll#Microsoft Scripting Runtime
+Object={831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.0#0; MSCOMCTL.OCX
+Form=Form1.frm
+Class=clsSettings; ..\clsSettings.cls
+Class=clsPSCdlRecord; ..\clsPSCdlRecord.cls
+Class=Registry; ..\clsRegistry.cls
+Class=AdoUtils; ..\AdoUtils.cls
+Class=clsFile; clsFile.cls
+Class=colFiles; colFiles.cls
+Class=clsCodeList; ..\clsCodeList.cls
+Class=colCodeList; ..\colCodeList.cls
+Startup="frmMain"
+HelpFile=""
+Command32=""
+Name="prjVersion1to2"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="hp"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[AppForge Global]
+MODID=EFE4B5A0-1511-4D07-8D12-2D59D007278B
